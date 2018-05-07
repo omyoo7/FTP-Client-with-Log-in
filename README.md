@@ -9,4 +9,4 @@ enter password
 you logged in
 
 
-For more Detail visit http://nxtspace.blogspot.in and inbox
+For more Detail visit https://nxtspace.blogspot.in/ and inbox
